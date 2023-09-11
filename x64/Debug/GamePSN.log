@@ -1,0 +1,129 @@
+﻿  main.cpp
+C:\Users\Я\OneDrive\Документи\GitHub\GamePaperScissorsStone\main.cpp(34,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Я\OneDrive\Документи\GitHub\GamePaperScissorsStone\main.cpp(168,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Я\OneDrive\Документи\GitHub\GamePaperScissorsStone\main.cpp(168,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Я\OneDrive\Документи\GitHub\GamePaperScissorsStone\main.cpp(178,87): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Я\OneDrive\Документи\GitHub\GamePaperScissorsStone\main.cpp(178,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Я\OneDrive\Документи\GitHub\GamePaperScissorsStone\main.cpp(206,88): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Я\OneDrive\Документи\GitHub\GamePaperScissorsStone\main.cpp(206,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Я\OneDrive\Документи\GitHub\GamePaperScissorsStone\main.cpp(234,89): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Я\OneDrive\Документи\GitHub\GamePaperScissorsStone\main.cpp(234,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Я\OneDrive\Документи\GitHub\GamePaperScissorsStone\main.cpp(273,87): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Я\OneDrive\Документи\GitHub\GamePaperScissorsStone\main.cpp(273,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Я\OneDrive\Документи\GitHub\GamePaperScissorsStone\main.cpp(276,88): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Я\OneDrive\Документи\GitHub\GamePaperScissorsStone\main.cpp(276,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Я\OneDrive\Документи\GitHub\GamePaperScissorsStone\main.cpp(279,89): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Я\OneDrive\Документи\GitHub\GamePaperScissorsStone\main.cpp(279,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  GamePSN.vcxproj -> C:\Users\Я\OneDrive\Документи\GitHub\GamePaperScissorsStone\x64\Debug\GamePSR.exe

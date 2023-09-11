@@ -1,0 +1,2 @@
+D:\C++\My_First_Game\GamePSR\x64\Debug\GamePSR.exe
+C:\Users\Я\OneDrive\Документи\GitHub\GamePaperScissorsStone\x64\Debug\GamePSR.exe
